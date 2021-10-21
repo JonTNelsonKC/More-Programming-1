@@ -1,0 +1,79 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		79BD944425D1BADA0068F52C /* inClass02082020.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = inClass02082020.cpp; sourceTree = "<group>"; };
+		79BD944525D1BD5D0068F52C /* Testing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Testing.cpp; sourceTree = "<group>"; };
+		79BD944725D1C4930068F52C /* classAverageFinder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = classAverageFinder.cpp; sourceTree = "<group>"; };
+		79BD944825D1C7120068F52C /* classAverageFinderWhile.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = classAverageFinderWhile.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		79BD943D25D1BAC70068F52C = {
+			isa = PBXGroup;
+			children = (
+				79BD944725D1C4930068F52C /* classAverageFinder.cpp */,
+				79BD944825D1C7120068F52C /* classAverageFinderWhile.cpp */,
+				79BD944525D1BD5D0068F52C /* Testing.cpp */,
+				79BD944425D1BADA0068F52C /* inClass02082020.cpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		79BD943E25D1BAC70068F52C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1240;
+			};
+			buildConfigurationList = 79BD944125D1BAC70068F52C /* Build configuration list for PBXProject "inClass02082020" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 79BD943D25D1BAC70068F52C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		79BD944225D1BAC70068F52C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		79BD944325D1BAC70068F52C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		79BD944125D1BAC70068F52C /* Build configuration list for PBXProject "inClass02082020" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79BD944225D1BAC70068F52C /* Debug */,
+				79BD944325D1BAC70068F52C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 79BD943E25D1BAC70068F52C /* Project object */;
+}

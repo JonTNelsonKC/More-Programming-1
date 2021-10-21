@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../inclass02012020">
+   </FileRef>
+   <FileRef
+      location = "group:../inClass02082020">
+   </FileRef>
+   <FileRef
+      location = "group:../inclass03012021">
+   </FileRef>
+   <FileRef
+      location = "group:../inclass03082021.cpp">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
